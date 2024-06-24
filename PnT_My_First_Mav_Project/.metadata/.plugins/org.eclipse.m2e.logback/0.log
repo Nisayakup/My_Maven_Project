@@ -8,3 +8,7 @@
 2024-06-24 13:05:24,112 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/main/resources
 2024-06-24 13:05:24,113 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-06-24 13:05:24,113 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/test/resources
+2024-06-24 13:10:51,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:10:51,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/main/resources
+2024-06-24 13:10:51,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:10:51,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/test/resources

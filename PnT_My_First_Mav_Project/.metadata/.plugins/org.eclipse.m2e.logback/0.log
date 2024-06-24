@@ -12,3 +12,12 @@
 2024-06-24 13:10:51,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/main/resources
 2024-06-24 13:10:51,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-06-24 13:10:51,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/test/resources
+2024-06-24 13:16:03,174 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learning.automation:My_Maven_Project:0.0.1-SNAPSHOT @ /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/pom.xml.
+2024-06-24 13:16:03,257 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:16:03,257 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/main/resources
+2024-06-24 13:16:03,258 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:16:03,258 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/test/resources
+2024-06-24 13:16:04,437 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:16:04,437 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/main/resources
+2024-06-24 13:16:04,439 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-24 13:16:04,439 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/guharnisa/Desktop/Automation/PnT_My_First_Mav_Project/src/test/resources

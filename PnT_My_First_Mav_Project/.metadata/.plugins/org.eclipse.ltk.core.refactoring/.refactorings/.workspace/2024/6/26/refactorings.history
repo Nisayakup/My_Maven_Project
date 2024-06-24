@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;My_Maven_Project&apos; to &apos;PnT_My_First_Mav_Project&apos;" description="Rename resource &apos;My_Maven_Project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/My_Maven_Project" name="PnT_My_First_Mav_Project" stamp="1719252962734" updateReferences="true"/>
+</session>
